@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Project Manager</h1>
 
-<p id="description">Welcome to Project Manager! This web application simplifies and streamlines the process of managing projects tasks and collaboration among team members. Whether you're working on software development, marketing, sales or any project, our platform provides the tools you need to stay organized and productive.</p>
+<p id="description">Welcome to Project Manager! This web application simplifies and streamlines the process of managing projects tasks and collaboration among team members. Whether you're working on software development/design, marketing or sales, our platform provides the tools you need to stay organized and productive.</p>
 
 <h2>🚀 Demo</h2>
 
