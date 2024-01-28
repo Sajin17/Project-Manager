@@ -8,7 +8,7 @@
 
 <h2>🛠️ Login Steps:</h2>
 
-<p>You can sign up or login to the site using one of the following combination:</p>
+<p>You can sign up or login to the site using one of the following combinations:</p>
 
 <ol type="1">  
 <li><pre>1. Email: joe123@gmail.com <br>   Password: test1234</pre></li>
